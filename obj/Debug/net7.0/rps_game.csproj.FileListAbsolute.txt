@@ -1,0 +1,15 @@
+C:\Users\Segun\OneDrive\Desktop\rps_game\bin\Debug\net7.0\rps_game.exe
+C:\Users\Segun\OneDrive\Desktop\rps_game\bin\Debug\net7.0\rps_game.deps.json
+C:\Users\Segun\OneDrive\Desktop\rps_game\bin\Debug\net7.0\rps_game.runtimeconfig.json
+C:\Users\Segun\OneDrive\Desktop\rps_game\bin\Debug\net7.0\rps_game.dll
+C:\Users\Segun\OneDrive\Desktop\rps_game\bin\Debug\net7.0\rps_game.pdb
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.csproj.AssemblyReference.cache
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.AssemblyInfoInputs.cache
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.AssemblyInfo.cs
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.csproj.CoreCompileInputs.cache
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.dll
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\refint\rps_game.dll
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.pdb
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\rps_game.genruntimeconfig.cache
+C:\Users\Segun\OneDrive\Desktop\rps_game\obj\Debug\net7.0\ref\rps_game.dll
